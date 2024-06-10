@@ -1,0 +1,6 @@
+An error occurred when delete bug in issue 7. The error message is: Expected status code 200, but got 404
+An error occurred when delete enhancement in issue 7. The error message is: Expected status code 200, but got 404
+An error occurred when delete bug in issue 6. The error message is: Expected status code 200, but got 404
+An error occurred when delete enhancement in issue 6. The error message is: Expected status code 200, but got 404
+Deleted label bug in Issue 5 successfully
+Deleted label enhancement in Issue 5 successfully
