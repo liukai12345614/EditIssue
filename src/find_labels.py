@@ -8,7 +8,6 @@ import requests
 def find_labels(repo, issue_number, token):
     # 构造请求 URL
     url = f'https://api.github.com/repos/{repo}/issues/{issue_number}'
-    print(url)
     # 构造请求头
     headers = {
         'Authorization': f'token {token}',

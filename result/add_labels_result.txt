@@ -1,10 +1,1 @@
-Add labels ['bug', 'enhancement'] in issue 1 successfully
-Add labels ['bug', 'enhancement'] in issue 2 successfully
-Add labels ['bug', 'enhancement'] in issue 3 successfully
-Add labels ['bug', 'enhancement'] in issue 4 successfully
-Add labels ['bug', 'enhancement'] in issue 5 successfully
-Add labels ['bug', 'enhancement'] in issue 6 successfully
-Add labels ['bug', 'enhancement'] in issue 7 successfully
-Add labels ['bug', 'enhancement'] in issue 8 successfully
-Add labels ['bug', 'enhancement'] in issue 9 successfully
-Add labels ['bug', 'enhancement'] in issue 10 successfully
+issue 2 no need to add labels
