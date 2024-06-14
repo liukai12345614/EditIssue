@@ -1,8 +1,7 @@
-Issue 4 is assigned to dev1
-Issue 5 is assigned to dev2
-Issue 6 is assigned to dev3
-Issue 7 is assigned to liukai12345614
-Issue 8 is assigned to dev1
-Issue 9 is assigned to dev2
-Issue 10 is assigned to dev3
-Issue 11 is assigned to liukai12345614
+Issue 2 is assigned to dev3
+Issue 5 is assigned to dev1
+Issue 6 is assigned to dev2
+Issue 7 is assigned to dev3
+Issue 8 is assigned to dev4
+Issue 10 is assigned to dev1
+Issue 11 is assigned to dev2
