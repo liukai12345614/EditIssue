@@ -1,9 +1,9 @@
 issue 2 no need to delete labels
-Deleted label bug in Issue 3 successfully
-Deleted label bug in Issue 4 successfully
-Deleted label bug in Issue 5 successfully
-Deleted label bug in Issue 6 successfully
-Deleted label bug in Issue 7 successfully
+issue 3 no need to delete labels
+issue 4 no need to delete labels
+issue 5 no need to delete labels
+issue 6 no need to delete labels
+issue 7 no need to delete labels
 issue 8 no need to delete labels
 issue 9 no need to delete labels
 issue 10 no need to delete labels

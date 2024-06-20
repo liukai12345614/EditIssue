@@ -1,10 +1,10 @@
 [
     {"number": 1, "label": "['question']", "assign": "['dev2']"},
-    {"number": 2, "label": "['bug', 'documentation']"},
+    {"number": 2, "label": "['category:new-port', 'info:good-first-issue']"},
     {"number": 3, "label": "['enhancement']"},
     {"number": 4, "label": "['good first issue']"},
     {"number": 5, "label": "['help wanted']"},
-    {"number": 6, "label": "['invalid']"},
+    {"number": 6, "label": "['category:new-port', 'info:good-first-issue']"},
     {"number": 7, "label": "['question']"},
     {"number": 8, "label": "['bug', 'question']"},
     {"number": 9, "label": "['bug', 'invalid']"},

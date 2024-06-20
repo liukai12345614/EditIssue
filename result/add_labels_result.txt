@@ -1,10 +1,10 @@
-Add labels ['documentation'] in issue 2 successfully
-Add labels ['enhancement'] in issue 3 successfully
-Add labels ['good first issue'] in issue 4 successfully
-Add labels ['help wanted'] in issue 5 successfully
-Add labels ['invalid'] in issue 6 successfully
-Add labels ['question'] in issue 7 successfully
-Add labels ['question'] in issue 8 successfully
-Add labels ['invalid'] in issue 9 successfully
-Add labels ['enhancement'] in issue 10 successfully
+issue 2 no need to add labels
+issue 3 no need to add labels
+issue 4 no need to add labels
+issue 5 no need to add labels
+issue 6 no need to add labels
+issue 7 no need to add labels
+issue 8 no need to add labels
+issue 9 no need to add labels
+issue 10 no need to add labels
 issue 11 no need to add labels

@@ -22,10 +22,6 @@ token = config['token']
 # 人员列表
 peoples = config['peoples']
 
-# delete info
-with open('./data/delete.json', 'r') as file:
-    delete_info = json.load(file)
-
 # add info
 with open('./data/add.json', 'r') as file:
     add_info = json.load(file)
